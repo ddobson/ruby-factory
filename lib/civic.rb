@@ -1,4 +1,4 @@
-require_relative 'honda'
+require 'honda'
 # :nodoc:
 class Civic < Honda
   attr_reader :color, :price

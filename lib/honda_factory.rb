@@ -1,5 +1,5 @@
-require_relative 'accord'
-require_relative 'civic'
+require 'accord'
+require 'civic'
 
 # :nodoc:
 class HondaFactory
